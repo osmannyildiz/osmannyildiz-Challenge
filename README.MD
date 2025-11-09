@@ -1,5 +1,9 @@
 # Move Project Repo Template
 
+> **Completed.** This was so much fun :)\
+> **Package ID**: [0x2a1db49985b6a55fe882bc351626ed11a903e706230207969ed4dcaab171d204](https://suiscan.xyz/testnet/object/0x2a1db49985b6a55fe882bc351626ed11a903e706230207969ed4dcaab171d204/tx-blocks)\
+> **UI**: [Click here](https://osmannyildiz.github.io/osmannyildiz-Challenge/)
+
 This is a template for Workshop Students Project Submissions
 
 ## ⚠️ Important Notes

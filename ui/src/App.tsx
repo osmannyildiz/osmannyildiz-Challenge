@@ -21,12 +21,12 @@ function App() {
         align="center"
         style={{
           borderBottom: "1px solid var(--gray-a2)",
-          background: "var(--color-background)",
+          background: "var(--green-1)",
           zIndex: 10,
         }}
       >
         <Box>
-          <Heading size="6">Hero NFT Marketplace</Heading>
+          <Heading size="6">⭐️ Osman's Hero NFT Marketplace</Heading>
         </Box>
 
         <Box>
@@ -35,7 +35,7 @@ function App() {
       </Flex>
 
       {/* Main Content */}
-      <Container size="4" style={{ padding: "24px" }}>
+      <Container size="4" style={{ padding: "24px", background: "var(--green-1)" }}>
         <Flex direction="column" gap="8">
           {/* Wallet Status Section */}
           <Box>
