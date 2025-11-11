@@ -14,7 +14,7 @@ This is a template for Workshop Students Project Submissions
 ## Getting Started
 
 ### 1. Repository Setup
-- Click `Use this template` and create a new repository
+- Click `Use this template` and create a new repository(fork)
 - Name it: `<YOUR-NAME>-Challenge` (e.g., `BuilderMare-Challenge`)
 - Make sure the repository is **Public**
 - Clone the repository:
